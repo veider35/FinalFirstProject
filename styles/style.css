@@ -18,10 +18,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-<<<<<<< HEAD
-  /* выше установили ограничения для секции */
-=======
->>>>>>> 49d17c4 (переделал)
   position: relative;
   background-color: #f2f2f2;
 }
@@ -55,10 +51,6 @@
   height: 608px ;
 }
 
-<<<<<<< HEAD
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-=======
->>>>>>> 49d17c4 (переделал)
 .header__square-pic {
   background-color: #2f80ed;
   top: 64px;
@@ -71,12 +63,8 @@
 
 .logo{
   z-index: 2;
-<<<<<<< HEAD
-  width: 183px;
-=======
   width: 228px;
   height: 32px;
->>>>>>> 49d17c4 (переделал)
 }
 
 .logo_place_header{
@@ -84,31 +72,6 @@
   top: 30px;
   left: 64px;
   position: absolute;
-<<<<<<< HEAD
-}
-
-.description{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  /*min-height:30px;*/
-  margin: 100px 0;
-}
-
-.two-colums{
-  justify-content: space-between;
-  width: 80%;
-  display: flex;
-}
-
-.two-columns__brief{
-  width: 175px;
-  color: #2f80ed;
-  font-size: 18px;
-  line-height: 1.2px;
-  font-weight: normal;
-=======
   font-weight: bold;
 }
 
@@ -134,16 +97,12 @@
   line-height: 1.2;
   font-weight: normal;
   
->>>>>>> 49d17c4 (переделал)
 }
 
 .two-columns__main-text{
   width: 80%;
   min-width: 784px;
-<<<<<<< HEAD
-=======
   min-height:auto;
->>>>>>> 49d17c4 (переделал)
 }
 
 .two-columns__paragraph{
@@ -151,10 +110,7 @@
   font-size: 24px;
   line-height: 34px;
   font-weight: normal;
-<<<<<<< HEAD
-=======
   min-height: fit-content;
->>>>>>> 49d17c4 (переделал)
 }
 
 .two-columns__span-accent{
@@ -173,11 +129,7 @@
   font-size: 60px;
   line-height: 1.15;
   font-weight: bold;
-<<<<<<< HEAD
-  margin:auto;
-=======
   margin: 0 auto;
->>>>>>> 49d17c4 (переделал)
 }
 .section-subtitle{
   width: 60%;
@@ -217,11 +169,8 @@
   position: relative;
   padding-top: 100px;
   height: 890px;
-<<<<<<< HEAD
-=======
   box-sizing: border-box;
   background-color: #f2f2f2;
->>>>>>> 49d17c4 (переделал)
 }
 
 .feynman__title{
@@ -250,18 +199,11 @@
   position: absolute;
   color: #2f80ed;
   top: 50%;
-<<<<<<< HEAD
-  margin-right: 48px;
-  font-size: 36px;
-  line-height: 51px;
-  font-weight: normal;
-=======
   right: 48px;
   font-size: 36px;
   line-height: 51px;
   font-weight: normal;
   text-decoration: none;
->>>>>>> 49d17c4 (переделал)
 }
 
 .feynman__image{
@@ -327,10 +269,7 @@
 
 .table__cell_theme_dark{
   width: 200px;
-<<<<<<< HEAD
-=======
   padding-top: 80px ;
->>>>>>> 49d17c4 (переделал)
   color: #fff;
   z-index: 2;
 }
@@ -360,26 +299,10 @@
   justify-content: center;
 }
 
-<<<<<<< HEAD
-/*.footer_theme_dark{
-  background-color: #1f1f1f;
-}*/
-
-.footer__columns{
-  display: flex;
-  width: 90px;
-  justify-content: space-between;
-  /*background-color: black;*/
-}
-
-.logo_place_footer{
-  height: 32px;
-=======
 .footer__columns{
   display: flex;
   width: 90%;
   justify-content: space-between;
->>>>>>> 49d17c4 (переделал)
 }
 
 .footer__column_content_copyright{
@@ -389,20 +312,10 @@
   flex-direction: column;
 }
 
-<<<<<<< HEAD
-/*.footer__column_content_info{
-
-}
-
-.footer__column_content_social{
-
-}*/
-=======
 .logo_place_footer{
   
   color: #fff;
  } 
->>>>>>> 49d17c4 (переделал)
 
 .footer__column-heading{
   font-size: 18px;
@@ -415,21 +328,8 @@
   list-style: none;
   margin: 20px 0 16px;
   padding: 0;
-<<<<<<< HEAD
- /* font-size: 18px;
-  line-height: 30px;
-  font-weight: 600;*/
 }
 
-/*.footer__social-icon{
- padding-top: 20px;
- padding-bottom: 16px ;
-}*/
-
-=======
-}
-
->>>>>>> 49d17c4 (переделал)
 .footer__column-link{
   display: flex;
   font-size: 18px;
